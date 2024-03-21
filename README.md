@@ -1,14 +1,13 @@
+    
+    #Hi there 👋
+    
+My name is Imoh and i am a web developer.
 
-
-<!DOCTYPE html>
-<html lang="en">
-<body>
-    <main>
-        <center><div style="font-size: 27px;">### Hi there 👋</div></center>
-    </main>
-</body>
-</html>
-
+- 🔭 I’m currently working on a web development project
+- 🌱 I’m currently learning MERN stack web development
+- 👯 I’m looking to collaborate on web development projects
+- 💬 Ask me about web development
+- ⚡ Fun fact: web developement is amazing
 <!--
 **mohuwem/mohuwem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
